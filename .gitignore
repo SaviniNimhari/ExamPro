@@ -1,0 +1,20 @@
+# Binaries and object files
+*.exe
+*.obj
+*.o
+*.out
+*.pdb
+*.ilk
+
+# Visual Studio files
+.vs/
+*.sln.docstates
+*.user
+x64/
+Debug/
+Release/
+
+# Build directories
+build/
+bin/
+out/
